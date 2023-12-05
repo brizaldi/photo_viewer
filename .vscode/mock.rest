@@ -1,0 +1,4 @@
+@baseUrl = https://api.pexels.com/v1
+
+GET {{baseUrl}}/curated?page=1&per_page=20
+Authorization: 54mvW1jSVofT3AGG2RUiJXpfxmIZd35FX07iVVF2mixL9gyUu53lSTqz
